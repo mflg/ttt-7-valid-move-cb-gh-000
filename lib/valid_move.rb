@@ -18,4 +18,4 @@ def position_taken?(board, position)
   end
 end
 
-puts valid_move([],0)
+puts valid_move?([],0)
