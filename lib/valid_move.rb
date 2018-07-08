@@ -17,3 +17,5 @@ def position_taken?(board, position)
     true
   end
 end
+
+valid_move([],0)
